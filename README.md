@@ -2,6 +2,7 @@
 Creación de un blog para el curso de git y github de Platzi.
 
 >Nunca pares de aprender
+>
 >   -Platzi
 
 ## Contenidos del curso aplicados
